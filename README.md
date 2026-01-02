@@ -11,7 +11,7 @@ Ce dépôt contient les travaux et ressources pour le cours de **Dessin Assisté
 | **Université** | **ISTEAH** (Institut des Sciences, des Technologies et des Études Avancées d'Haïti) |
 | **Cours** | CIV2500 - Dessin Assisté par Ordinateur |
 | **Professeur** | **Prof. Andy Augustin** |
-| **Session** | Hiver 2026 |
+| **Session** | Autonne 2025 |
 
 ---
 
